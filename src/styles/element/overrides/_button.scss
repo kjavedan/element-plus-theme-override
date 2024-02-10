@@ -1,0 +1,6 @@
+.ep-button {
+  transition: all ease-in-out .2s;
+  &:active {
+    transform: scale(.99);
+  }
+  }
